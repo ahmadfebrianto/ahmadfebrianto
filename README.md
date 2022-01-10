@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @ahmadfebrianto
-- 👀 I’m interested in Infosec, Mobile and Web Development, Automation Script, and Data Science
+
+## Hi, there!
+
+I’m Ahmad Febrianto, a CS student who has inetrests in IT Security, Mobile and Web App Development, Automation Script, Data Science and Machine Learning. 
+
+In short, I am a ```Python``` and ```Kotlin (Android)``` developer.
 
 <!---
 ahmadfebrianto/ahmadfebrianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
